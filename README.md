@@ -7,3 +7,4 @@ Here goes my notes for the "Diplomado de Aplicaciones móviles ios"
 - Constants and Variables
 - Data Types
 - Colections
+-git
